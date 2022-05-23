@@ -1,0 +1,27 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.calculator {
+    width: 300px;
+    background-color: #333;
+    margin: 20px auto;
+
+}
+
+.calculator .calc-out {
+    border-bottom: 1px solid rgb(90, 90, 90);
+}
+
+.calculator .calc-out input {
+    background-color: #333;
+    outline: none;
+    border: none;
+    width: 100%;
+    color: #fff;
+    padding: 20px;
+    text-align: right;
+    font-size: 20px;
+}
