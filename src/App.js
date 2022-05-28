@@ -22,7 +22,6 @@ function App() {
             setResult("Greska pri unosu");
             setTimeout(backspace, 2000);
         }
-
     }
 
     return (
